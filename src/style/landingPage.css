@@ -1,0 +1,78 @@
+
+.myBG {
+    height: 100vh;
+    background-image: url('../assets/images/bg/bg7.jpg'); 
+    background-size: cover;
+    border: 0;
+}
+
+.intro {
+    height: 500px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing:  4px;
+}
+
+.trending {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+}
+
+.asia {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+}
+
+.barat {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+}
+
+.btn1 {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+.btn2 {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin: 0;
+  }
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: 500px;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
